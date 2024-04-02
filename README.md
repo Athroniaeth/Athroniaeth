@@ -6,7 +6,7 @@ Hello! I'm a 23-year-old Data Scientist, fresh out of university from France (Ly
 
 ## My Expertise 🛠️
 
-I specialize in these areas in particular: **Software Engineering:**, **Deep Learning (Computer Vision):**, **Transformers:**, **Chess AI:**  despite the fact that I try to have a more or less complete knowledge and mastery of data science.
+I specialize in these areas in particular: `Software Engineering`, `Deep Learning (Computer Vision)`, `Transformers` and `Chess AI`  despite the fact that I try to have a more or less complete knowledge and mastery of data science.
 
 ### Core Skills:
 
