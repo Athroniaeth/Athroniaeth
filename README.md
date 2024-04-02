@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**Athroniaeth/Athroniaeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌟
 
-Here are some ideas to get you started:
+Hello! I'm a 23-year-old Data Scientist, fresh out of university from France (Lyon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Expertise 🛠️
+
+I specialize in a range of areas, ensuring a comprehensive approach to data science:
+
+- **Software Engineering:** 
+- **Deep Learning (Computer Vision):** 
+- **Transformers:** 
+- **Chess AI:** 
+
+### Core Skills:
+
+- 🐍 **Python:** My go-to language for all things data.
+- 🔥 **PyTorch:** For cutting-edge machine learning models.
+- 🚀 **FastAPI:** Building high-performance APIs with ease.
+
+### Other Skills:
+
+- 🌐 **Git & Docker:** For version control and containerization.
+- ☁️ **Cloud Technologies:** OVH Cloud, AWS and Kubernetes.
+- 🔄 **Data Engineering:** Kedro, MLFlow.
+- 🔍 **Data Analysis:** OpenCV, Scikit-learn and SQL.
+- 💻 **Additional Languages:** C++, pywin32.
+
+📫 Reach out to me at: [pierre.chaumont@hotmail.fr]
