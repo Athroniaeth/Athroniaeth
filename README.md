@@ -2,27 +2,33 @@
 
 ## About Me 🌟
 
-Hello! I'm a 23-year-old Data Scientist, fresh out of university from France (Lyon)
+Hello! I'm Pierre Chaumont, a 23-year-old Data Scientist from Lyon, France. I recently graduated with a Master's in AI & Big Data from ESGI and am currently seeking a mission in Data Science.
 
 ## My Expertise 🛠️
 
-I specialize in these areas in particular: `Software Engineering`, `AI Generative (LLM)`, `Deep Learning (Computer Vision)`, `Transformers` and `Chess AI`  despite the fact that I try to have a more or less complete knowledge and mastery of data science.
+I specialize in various areas of `Data Science` and `Software Engineering`. My expertise includes developing robust and scalable software solutions, creating and utilizing generative AI models (LLMs), and applying deep learning techniques to computer vision projects. Additionally, I have developed AI models for chess. My goal is to maintain a comprehensive understanding and mastery of the field of data science and machine learning.
 
-### Core Skills:
+## Core Skills:
 
-- 🐍 **Python**: Advanced development of scripts and applications
-- 🔥 **PyTorch**: Creation and training of deep learning models
-- 📊 **SQL**: Handling and operation of relational databases
-- 🚀 **FastAPI**: Creation of fast APIs for model deployment
-- 🧠 **Software Engineering**: Design pattern, unit testing and CI/CD
+* 🐍 Python: Advanced scripting and application development.
+* 🔥 PyTorch: Creation and training of deep learning models.
+* 📊 SQL: Manipulation and operation of relational databases.
+* 🚀 FastAPI: Creation of fast APIs for model deployment.
+* 🧠 Software Engineering: Design patterns, unit testing, and CI/CD.
 
-### Other Skills:
+## Other Skills:
 
-- 🌐 **Version control / Containerization** Git, Gitlabs & Docker.
-- ☁️ **Cloud Technologies:** OVH Cloud, AWS and Kubernetes.
-- 🔄 **Machine Learning:** Kedro, MLFlow, Scikit-learn.
-- 🔍 **Data Engineer:** OpenCV and SQL.
-- 💻 **Other Languages:** Cython, C++.
-- 💻 **Additional:** pywin32.
+* 🌐 Version Control / Containerization: Git, GitLab, Docker.
+* ☁️ Cloud Technologies: OVH Cloud, AWS, Kubernetes.
+* 🔄 Machine Learning: Kedro, MLFlow, Scikit-learn.
+* 🔍 Data Engineering: OpenCV, SQL.
+* 💻 Other Languages: Cython, C++.
+* 🧩 Additional Tools: pywin32.
 
-📫 Reach out to me at: [pierre.chaumont@hotmail.fr]
+## Contact Me 📫
+
+* Location: Bordeaux Centre, 33000
+* Email: pierre.chaumont@hotmail.fr
+* Portfolio: https://www.pierrechaumont.fr
+* Malt: https://www.malt.fr/profile/pierrechaumont
+* LinkedIn: https://www.linkedin.com/in/pierre-chaumont-890aa417a/
