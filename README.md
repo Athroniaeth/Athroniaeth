@@ -2,7 +2,7 @@
 
 ## About Me 🌟
 
-Hello! I'm Pierre Chaumont, a 23-year-old Data Scientist from Lyon, France. I recently graduated with a Master's in AI & Big Data from ESGI and am currently seeking a mission in Data Science.
+Hello! I'm 23-year-old Data Scientist from Lyon, France. I recently graduated with a Master's in AI & Big Data from ESGI and am currently seeking a mission in Data Science.
 
 ## My Expertise 🛠️
 
@@ -24,11 +24,3 @@ I specialize in various areas of `Data Science` and `Software Engineering`. My e
 * 🔍 Data Engineering: OpenCV, SQL.
 * 💻 Other Languages: Cython, C++.
 * 🧩 Additional Tools: pywin32.
-
-## Contact Me 📫
-
-* Location: Bordeaux Centre, 33000
-* Email: pierre.chaumont@hotmail.fr
-* Portfolio: https://www.pierrechaumont.fr
-* Malt: https://www.malt.fr/profile/pierrechaumont
-* LinkedIn: https://www.linkedin.com/in/pierre-chaumont-890aa417a/
