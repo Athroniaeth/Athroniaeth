@@ -2,7 +2,7 @@
 
 ## About Me 🌟
 
-Hello! I'm 23-year-old Data Scientist from Lyon, France. I recently graduated with a Master's in AI & Big Data from ESGI and am currently seeking a mission in Data Science.
+Hello! I'm AI Engineer from Bordeaux, France. I recently graduated with a Master's in AI & Big Data.
 
 ## My Expertise 🛠️
 
